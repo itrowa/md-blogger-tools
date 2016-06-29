@@ -1,3 +1,4 @@
+# WARNING: deprecated
 # 将某个目录下的所有的形如2014-0-02-file-name.markdown的文件的file-name部分插入到yml header的slug部分中:
 # slug: file-name
 
